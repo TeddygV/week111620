@@ -2,6 +2,10 @@
     list-style-type: circle;
 }
 
-.squarList {
+.squareList {
     list-style-type: square;
+}
+
+.green {
+    color: green;
 }
